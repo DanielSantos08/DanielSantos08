@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Me chamo **Daniel Santos**, tenho **<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/danielsantos08/danielsantos08/main/age.json" alt="Idade dinâmica"/>**, sou **Engenheiro de Alimentos** formado pelo **Instituto Federal Baiano**.
+Olá! Me chamo **Daniel Santos**, tenho **<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/danielsantos08/danielsantos08/master/age.json" alt="Idade dinâmica"/>**, sou **Engenheiro de Alimentos** formado pelo **Instituto Federal Baiano**.
 
 🚀 **Minha jornada em TI começou em 2021** com o **Recode Pro**, um programa de qualificação gratuita em programação voltado para pessoas em situação de vulnerabilidade social, que me abriu as portas para o mundo da tecnologia.
 
