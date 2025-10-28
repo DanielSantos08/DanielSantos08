@@ -18,6 +18,7 @@ Desde então, venho me aprofundando na área através de cursos e bootcamps, e p
 
 💼 Atualmente sou **bolsista do CEPEDI** no programa **Bolsa Futuro Digital** em **Back-End com Python**. Atuando profissionalmente na área desde **julho de 2024**, concretizando minha migração de carreira.
 
+Veja meu portfólio: https://portfolio-danielsantos-10.vercel.app/
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
