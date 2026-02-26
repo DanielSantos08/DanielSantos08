@@ -84,19 +84,6 @@ Veja meu portfólio: https://portfolio-danielsantos-10.vercel.app/
 
 ---
 
-## 📊 Métricas Detalhadas
-
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielsantos08&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielsantos08&theme=tokyonight" alt="Repos per Language" />
-</div>
-
----
-
 ## 🎯 Experiência & Projetos
 
 - 🐍 **Python**: Desenvolvimento web com Flask, aplicações desktop com Tkinter e PyQt5, visão computacional com OpenCV
