@@ -87,8 +87,8 @@ Veja meu portfólio: https://portfolio-danielsantos-10.vercel.app/
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsantos08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos08&layout=compact&langs_count=8&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSantos08&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantos08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
